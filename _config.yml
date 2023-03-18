@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Austin L Tao"
+  name             : "Austin Tao"
   avatar           : "profile.png"
   bio              : "4th Year Columbia Applied Math and CS Student"
   location         : "New York, NY"
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/austin-tao/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/austin-tao"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
