@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Austin Tao"
-  avatar           : "profile.jpeg"
+  avatar           : "profile.png"
   bio              : "4th Year Columbia Applied Math and CS Student"
   location         : "New York, NY"
   employer         :
@@ -190,9 +190,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
-  music:
-    output: true
-    permalink: /:collection/:path/
+  # music:
+  #   output: true
+  #   permalink: /:collection/:path/
   research:
     output: true
     permalink: /:collection/:path/
@@ -263,15 +263,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _music
-  - scope:
-      path: ""
-      type: music
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+  # # _music
+  # - scope:
+  #     path: ""
+  #     type: music
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comments: true
   # _research
   - scope:
       path: ""
