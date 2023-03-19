@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.research reversed %}
+{% assign ordered_pages = site.research | sort:"order_number" %}
+
+{% for post in ordered_pages %}
   {% include archive-single.html %}
 {% endfor %}

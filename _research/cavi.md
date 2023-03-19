@@ -5,6 +5,7 @@ title: "Applications of the Coordinate Ascent Variational Inference (CAVI) Algor
 collection: research
 excerpt: "Research Project for the Columbia University Course APMA 4903: Problems in Applied Mathematics"
 author_profile: true
+order_number: 2
 ---
 
 CAVI project here
