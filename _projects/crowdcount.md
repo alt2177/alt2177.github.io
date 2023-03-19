@@ -5,6 +5,7 @@ title: "CrowdCount: CV for Tracking Crowd Size During COVID-19"
 excerpt: "DevPost submission to the 2020 Stevens Venture Center COVID Hackathon II"
 collection: projects
 author_profile: true
+order_number: 3
 ---
 
 CrowdCount here
