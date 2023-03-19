@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Austin L Tao"
+title                    : "Austin Tao"
 title_separator          : "-"
-name                     : &name "Austin L Tao"
+name                     : &name "Austin Tao"
 description              : &description "Senior at Columbia University studying Applied Mathematics and Computer Science"
 url                      : https://alt2177.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
